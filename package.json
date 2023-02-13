@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "@vue/cli": "^5.0.8"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.12",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^7.3.1"
   }
 }
